@@ -1,2 +1,2 @@
 This is a test program
-这是一个测试程序
+This is a git test
